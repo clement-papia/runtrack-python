@@ -9,4 +9,4 @@ def dev (langage):
         print("tu es un developpeur mobile")
     else:
         print("un jour je serais le meilleur developpeur")
-dev(langage="else")
+dev(langage="javascript")

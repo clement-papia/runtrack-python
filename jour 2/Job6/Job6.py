@@ -4,4 +4,4 @@ def positif (nombre):
     else:
         nombre <0
         print("le nombre est négatif")
-positif(-6)
+positif(6)
